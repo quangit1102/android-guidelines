@@ -69,7 +69,7 @@ A slightly different case is when we are creating a layout that is going to be i
 
 Note that there are cases where these rules will not be possible to apply. For example, when creating layout files that are intended to be part of other layouts. In this case you should use the prefix `partial_`.
 
-#### 1.2.2.3 Menu files
+#### 1.2.2.3 Menu filesss
 
 Similar to layout files, menu files should match the name of the component. For example, if we are defining a menu file that is going to be used in the `UserActivity`, then the name of the file should be `activity_user.xml`
 
